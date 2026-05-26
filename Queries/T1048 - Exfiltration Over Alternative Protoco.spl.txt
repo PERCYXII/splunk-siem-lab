@@ -1,0 +1,1 @@
+index=main src_ip=10.0.2.15 | stats count by category, action, dest_ip | sort -count
