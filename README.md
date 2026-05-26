@@ -1,6 +1,6 @@
 # splunk-siem-lab
 A comprehensive Splunk lab featuring AI-generated synthetic logs, MITRE ATT&amp;CK-mapped detections, and interactive security dashboards for incident triage and threat hunting
-For a high-quality GitHub repository, you need two types of descriptions:
+For a high-quality GitHub repository.
 
 # Splunk Detection & Triage Lab: AI-Driven Security Monitoring
 
