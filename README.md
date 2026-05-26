@@ -29,7 +29,7 @@ Instead of using static datasets, I prompted an AI to generate JSON logs represe
 *   Creating custom source types and field extractions.
 
 ### 2. Interactive Dashboards
-The dashboards included in this repo (see `/dashboards` folder) utilize:
+The dashboards included in this repo (see `/Dashboards & Visualization` folder) utilize:
 *   **Tokens:** For dynamic filtering by user, IP, or time range.
 *   **Drill-downs:** Enabling a "click-to-investigate" workflow from a high-level chart to raw log events.
 *   **Single-Value Thresholds:** Using color-coding to highlight critical spikes in failed logins or unauthorized access.
